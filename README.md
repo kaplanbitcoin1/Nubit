@@ -1,1 +1,1 @@
->  [Nubit sitesine bağlanalım](https://alpha.nubit.org/) 
+[Nubit sitesine bağlanalım](https://alpha.nubit.org/) 
