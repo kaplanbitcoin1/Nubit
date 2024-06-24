@@ -1,6 +1,6 @@
 
 
-Nubit'in sitesine cüzdan bağlayalım. 
+Nubit'in sitesine gidip cüzdan bağlayalım. 
 
 https://alpha.nubit.org/
 
@@ -11,8 +11,8 @@ curl -sL1 https://nubit.sh | bash
 
 ```
 
-Loglar akmaya başladığında keylerimiz verilecek bunları kaydedelim.
+Loglar akmaya başladığında keylerimiz verilecek, bunları kaydedelim.
 
 
-15 dakika sonra Nubit'in sitesine gelip Pubkey'imiz ile görevi tamamlayalım.
+15 dakika sonra Nubit'in sitesine gidip Pubkey'imiz ile görevi tamamlayalım. İşlemler bu kadar. 
 
