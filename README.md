@@ -1,1 +1,1 @@
-[Nubit sitesine bağlanalım](https://alpha.nubit.org/) 
+Nubit'in sitesine[Bağlanalım](https://alpha.nubit.org/) 
