@@ -1,6 +1,9 @@
 
 
-Nubit'in sitesine cüzdan bağlayalım. (https://alpha.nubit.org/)
+Nubit'in sitesine cüzdan bağlayalım. 
+
+https://alpha.nubit.org/
+
 Sunucumuza bu komutu giriyoruz. 
 
 ```console
