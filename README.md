@@ -20,5 +20,5 @@ Loglar akmaya başladığında keylerimiz verilecek, bunları kaydedelim.
 
 
 
-15 dakika sonra Nubit'in sitesine gidip Pubkey'imiz ile görevi tamamlayalım. İşlemler bu kadar. 
+15 dakika sonra Nubit'in sitesine gidip Pubkey'imiz ile görevi tamamlayalım. İşlemler bu kadar.
 
